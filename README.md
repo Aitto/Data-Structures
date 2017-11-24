@@ -1,2 +1,1 @@
-# Data-Structures
-Data structures
+# Structure, that make the difference
